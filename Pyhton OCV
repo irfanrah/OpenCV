@@ -1,0 +1,6 @@
+compile python
+
+1. lsvirtualenv
+2. workon cv
+3. pyhton test.py
+
